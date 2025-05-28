@@ -2,7 +2,7 @@
 // @name         Blooket Gui
 // @namespace    diddy
 // @version      15
-// @author       Gradyruan
+// @author       
 // @license      Mozilla Public License Version 2.0
 // @description  prototpe
 // @match        *://*.blooket.com/*
