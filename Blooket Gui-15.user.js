@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Blooket Gui
-// @namespace    diddy
-// @version      15
+// @namespace    Lawmmower
+// @version      2
 // @author       
-// @license      Mozilla Public License Version 2.0
-// @description  prototpe
+// @license      
+// @description  idk
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
