@@ -9,8 +9,8 @@
 // @match        *://blooket.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
 // @grant        none
-// @downloadURL
-// @updateURL
+// @downloadURL https://raw.githubusercontent.com/nickthesigma-cpu/blooket-hacks-test/refs/heads/main/test.user.js
+// @updateURL https://raw.githubusercontent.com/nickthesigma-cpu/blooket-hacks-test/refs/heads/main/test.user.js
 // ==/UserScript==
 
 (async () => {
