@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Blooket Gui
 // @namespace    Lawmmower
-// @version      2
+// @version      3
 // @author       
 // @license      
 // @description  idk
